@@ -1,0 +1,93 @@
+html{
+    height: 100%;
+}
+
+body{
+    height: 100%;
+    margin: 0%;
+    background-color: rgba(236, 156, 5, 0.425);
+}
+
+#container{
+    height: 100%;
+    background-color: rgb(17, 116, 230);
+    display: flex;
+}
+
+#esquerda{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(239, 245, 243);
+}
+
+#esquerda-um{
+    height: 15%;
+    width: 100%;
+    background-color: rgb(239, 245, 243);
+}
+
+#esquerda-dois{
+    font-size: 495%;
+    height: 15%;
+    width: 100%;
+    background-color: rgb(239, 245, 243);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#esquerda-tres{
+    height: 15%;
+    width: 100%;
+    background-color: rgb(239, 245, 243);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#esquerda-quatro{
+    height: 15%;
+    width: 100%;
+    background-color: rgb(239, 245, 243);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#esquerda-cinco{
+    height: 15%;
+    width: 100%;
+    background-color: rgb(239, 245, 243);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    
+}
+
+#direita{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(118, 135, 230);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#uli{
+    font-size: 275%;
+}
+
+#riva{
+    font-size: 150%;
+    margin: 20px 0 15px 0;
+
+}
+
+.icons{
+    height: 35%;
+}
